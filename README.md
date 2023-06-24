@@ -9,3 +9,5 @@ Pressure and precipitation information
 Sunrise/sunset time
 Weather Radar & Rain maps
 Live-Preview
+
+![Screenshot 2023-06-24 150149](https://github.com/devanshagrawal-169/Weather_App/assets/83854973/a6690710-b878-4107-a8ec-4dfb03d74f6d)
