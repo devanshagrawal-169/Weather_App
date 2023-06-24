@@ -43,16 +43,13 @@ function displayResults(weather) {
     fl.innerHTML = `Feels like: ` + `${weather.main.feels_like}°C`;
 
     let p = document.querySelector("#p");
-    p.innerHTML = `Pressure:
-  ` + `${weather.main.pressure} Pa`;
+    p.innerHTML = `Pressure: ` + `${weather.main.pressure} Pa`;
 
     let hd = document.querySelector("#hd");
     hd.innerHTML = `Humidity: ` + `${weather.main.humidity} g/Kg`;
 
     let w = document.querySelector("#w");
     w.innerHTML = `Wind Speed: ` + `${weather.wind.speed} Km/h`;
-
-
 }
 
 
